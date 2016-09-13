@@ -1,1 +1,2 @@
 Meu projeto para estudar temperatura
+autor: ingrid
